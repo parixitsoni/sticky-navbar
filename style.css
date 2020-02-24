@@ -23,6 +23,11 @@ header{
     z-index: 10000;
 }
 
+header .sticky{
+    padding: 5px 100px;
+    background: #fff;
+}
+
 header .logo{
     position: relative;
     font-weight: 700;
@@ -33,6 +38,7 @@ header .logo{
     letter-spacing: 2px;
     transition: 0.6s;
 }
+
 
 header ul{
     position: relative;
@@ -63,3 +69,9 @@ header ul li a{
     background: url(./banner.png);
     background-size: cover;
 }
+
+/* header .logo,
+header .sticky ul li a{
+    color: #000;
+
+} */
