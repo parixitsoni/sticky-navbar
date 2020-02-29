@@ -1,3 +1,3 @@
 # sticky-navbar
 
-You can find demo [Click on](https://stickynavbar.netlify.com)
+You can see the output by clicking on the [demo](https://stickynavbar.netlify.com)
